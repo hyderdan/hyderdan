@@ -6,7 +6,7 @@ love
 
 - 📫 How to reach me *hyderdanish693@gmail.com*
 - 🌱 I’m currently learning *MCA*
-- 👨‍💻 Know more about me [My Portfolio](https://github.com/hyderdan)
+- 👨‍💻 Know more about me [My Portfolio](https://main--hyderportfolio.netlify.app/)
 
 - <h3 align="left">Connect with me:</h3>
   <p align="left">
